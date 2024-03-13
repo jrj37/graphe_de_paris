@@ -1,0 +1,6 @@
+*.csv
+*.bin
+objects/
+docs/
+graph
+tests_unit
