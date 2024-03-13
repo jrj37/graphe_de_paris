@@ -6,4 +6,5 @@ L'execution de 'graphe' doit se faire avec l'option -i suivi du chemin vers un f
  Par défaut la totalité des arrêtes sont considérées, le graphe est complet. L'option -h <hauteur> permet de ne considérer que les arbres plus grands que <hauteur>. L'option -l <distance> permet de considérer que les arrêtes entre les arbres écartés de plus de <distance>.
  
  L'option -w permet de désactiver l'affichage graphique.
+Le code est réalisé en C.
 
